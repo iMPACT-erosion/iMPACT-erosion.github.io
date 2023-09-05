@@ -2,9 +2,9 @@
 nav: false
 ---
 
-[<img src="iRONS_logo_6.png" alt="iRONS logo" style="width:60%;" >](./index.md/)
+[<img src="iMPACT_logo.png" alt="iMPACT logo" style="width:60%;" >](./index.md/)
 
-## iRONS (interactive Reservoir Operation Notebooks and Software)
+## iMPACT-erosion (interactive Modular Accesible Transparent erosion modelling)
 
 iRONS is a Python package that enables the simulation, forecasting and optimisation of reservoir systems. iRONS provides a set of Python functions (iRONS Software) implementing typical reservoir modelling task and a set of interactive Jupyter Notebooks (iRONS Notebooks) that demonstrate key functionalities through practical examples (Peñuela et al. 2021).
 
