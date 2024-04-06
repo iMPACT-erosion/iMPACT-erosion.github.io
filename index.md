@@ -6,7 +6,7 @@ nav: false
 
 ## iMPACT-erosion (interactive Modular Playful Accesible Transparent erosion modelling)
 
-iMPACT-erosion is a project that aims to **democratise** soil erosion modelling by fostering a more **educational, playful and exploratory** experience. To achieve this goal, the project adopts a learn-by-doing approach, allowing users of varying modeling expertise – from novices to experts – to get familiar with soil erosion modeling concepts and procedures simply by interacting with modelling tools.
+iMPACT-erosion is a project that aims to **democratise** soil erosion modelling by fostering a more **educational, playful and exploratory** experience. To achieve this goal, the project adopts a **learn-by-doing** approach, allowing users of varying modeling expertise – **from novices to experts** – to get familiar with soil erosion modeling concepts and procedures simply by interacting with modelling tools.
 
 iMPACT-erosion offers a comprehensive set of **interactive Jupyter Notebooks** and **Python functions** that guide users through the entire soil erosion modelling process. These resources are organized into three categories: **Learn, Test and Explore**
 
