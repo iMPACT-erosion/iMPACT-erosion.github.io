@@ -2,7 +2,7 @@
 nav: false
 ---
 
-[<img src="iMPACT_concept.png" alt="iMPACT concept" style="width:120%;" >](./index.md/)
+[<img src="iMPACT_logo.png" alt="iMPACT logo" style="width:60%;" >](./index.md/)
 
 ## **iMPACT-erosion (interactive Modular Playful Accesible Transparent erosion modelling)**
 
@@ -52,7 +52,7 @@ This project is funded by the European Research Executive Agency (REA) under the
 ### License
 Copyright (C) 2023 Andres Peñuela. iMPACT-erosion is released under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<img src="iMPACT_logo.png" alt="iMPACT logo" style="width:60%;" >
+<img src="iMPACT_concept.png" alt="iMPACT concept" style="width:120%;" >
 
 &nbsp;
 <div class="row">
