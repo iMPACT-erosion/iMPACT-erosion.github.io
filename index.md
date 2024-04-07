@@ -13,12 +13,14 @@ iMPACT-erosion offers a comprehensive set of **interactive Jupyter Notebooks** a
 ### **1. iMPACT Start**
 
 The iMPACT Start is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks: 
-- Catchment delineation:  this includes the filling of the DEM sinks, computation flow accumulation areas and flow routing.
-- Estimation of the effective rainfall and soil moisture
-- Soil detachment by r
-- 
+- Preprocessing of input data: this includes filling gaps in climate data, interpolation of spatial data and filling of sinks of the digital elevation model (DEM)
+- Catchment delineation:  this includes computation flow accumulation areas and flow routing.
+- Estimation of the effective rainfall: this includes the estimation of the canopy cover as a function of the crop and season.
+- Soil detachment by rainfall: 
+- Soil moisture and surface runoff simulation
+- Soil transport and sedimentation by surface runoff
 
-You can find these Notebooks at the iRONS Github repository: [iMPACT Learn](https://github.com/iRONStoolbox/iRONStoolbox/tree/master/iRONS/Software/)
+You can find these Notebooks at the iMPACT Github repository: [iMPACT Learn](https://github.com/iMPACT-erosion/iMPACT-erosion/tree/master/1-Start/)
 
 ### **2. iMPACT Test**
 
