@@ -10,15 +10,18 @@ iMPACT-erosion is a project that aims to **democratise** soil erosion modelling 
 
 iMPACT-erosion offers a comprehensive set of **interactive Jupyter Notebooks** and **Python functions** that guide users through the entire hydrological + soil erosion modelling process. These resources are organized into three stages: **Start, Test and Explore**
 
+Important: we have included links to run iMPACT Notebooks on the cloud by using Binder (https://mybinder.org/), so that they are accessible by a web browser **without requiring any local installation**. Just click [here](https://mybinder.org/v2/gh/iRONStoolbox/iRONStoolbox/HEAD?urlpath=%2Fnotebooks%2FiRONS/Notebooks)
+
+
 ### **1. iMPACT Start**
 
 The iMPACT Start is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks: 
-- Preprocessing of input data: this includes filling gaps in climate data, interpolation of spatial data and filling of sinks of the digital elevation model (DEM)
-- Catchment delineation:  this includes computation flow accumulation areas and flow routing.
-- Estimation of the effective rainfall: this includes the estimation of the canopy cover as a function of the crop and season.
-- Soil detachment by rainfall: 
-- Soil moisture and surface runoff simulation
-- Soil transport and sedimentation by surface runoff
+a. Preprocessing of input data: Addressing data gaps in climate records, spatial data interpolation, and resolving digital elevation model (DEM) sinks.
+b. Catchment delineation:  This includes calculating flow accumulation areas and establishing flow routing.
+c. Effective Rainfall Estimation: Assessing rainfall interception by canopy cover to determine effective rainfall.
+d. Soil detachment by rainfall: Modeling the detachment of soil particles due to rainfall impact.
+e. Soil moisture and surface runoff simulation: Predicting soil moisture dynamics and simulating surface runoff.
+f. Soil transport and sedimentation by surface runoff: Modeling the transport and deposition of soil particles carried by surface runoff.
 
 You can find these Notebooks at the iMPACT Github repository: [iMPACT Learn](https://github.com/iMPACT-erosion/iMPACT-erosion/tree/master/1-Start/)
 
