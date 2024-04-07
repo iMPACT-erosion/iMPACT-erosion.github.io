@@ -18,7 +18,7 @@ Important: we have included links to run iMPACT Notebooks on the cloud by using 
 The iMPACT Start is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks: 
 &nbsp;a. Preprocessing of input data: Addressing data gaps in climate records, spatial data interpolation, and resolving digital elevation model (DEM) sinks.
 b.  Catchment delineation:  This includes calculating flow accumulation areas and establishing flow routing.
-&nbsp;c. Effective rainfall estimation: Assessing rainfall interception by canopy cover to determine effective rainfall.
+|c. Effective rainfall estimation: Assessing rainfall interception by canopy cover to determine effective rainfall.
 &nbsp;d. Soil detachment by rainfall: Modeling the detachment of soil particles due to rainfall impact.
 &nbsp;e. Soil moisture and surface runoff simulation: Predicting soil moisture dynamics and simulating surface runoff.
 &nbsp;f. Soil transport and sedimentation by surface runoff: Modeling the transport and deposition of soil particles carried by surface runoff.
