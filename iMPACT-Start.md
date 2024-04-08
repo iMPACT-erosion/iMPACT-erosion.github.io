@@ -14,7 +14,7 @@ This is the list all the Notebooks that are currently available including their 
 Links to the Notebooks:
 - Addressing data gaps in climate records 
 - Spatial data interpolation 
-- Resolving digital elevation model (DEM) sinks.
+- [**Resolving digital elevation model (DEM) sinks**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/Fill_sinks.ipynb)
 
 **b. Catchment delineation:** Imagine pouring water onto a piece of land. Where does the water go? Catchment delineation is like drawing lines around the areas where the water collects and flows into streams or rivers. To do this, we look at how the land slopes and where the water would naturally flow downhill. We then calculate which areas are part of the same "catchment" or drainage area by figuring out which areas drain into the same stream or river.
 
