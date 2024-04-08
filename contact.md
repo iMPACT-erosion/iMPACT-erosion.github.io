@@ -5,8 +5,8 @@ nav: true
 
 
 If you have any questions or feedback, or if you spotted an error or bug, please create an issue on Github 
-(<a href="https://github.com/iRONStoolbox/iRONStoolbox/issues" target="_blank">https://github.com/iRONStoolbox/iRONStoolbox/issues</a>).
-Alternatively, email Andres Peñuela (<apenuela@uco.es>) or Francesca Pianosi (<francesca.pianosi@bristol.ac.uk>).
+(<a href="https://github.com/iMPACT-erosion/iMPACT-erosion/issues" target="_blank">https://github.com/iMPACT-erosion/iMPACT-erosion/issues</a>).
+Alternatively, email Andres Peñuela (<apenuela@uco.es>).
 
 &nbsp;
 
