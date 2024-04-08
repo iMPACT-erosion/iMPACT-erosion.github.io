@@ -1,5 +1,5 @@
 ---
-title: iMPACT Start
+title: iMPACT-Explore
 nav: true
 ---
 
