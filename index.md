@@ -8,7 +8,7 @@ iMPACT-erosion is a project that aims to **democratise** soil erosion modelling 
 
 iMPACT-erosion offers a comprehensive set of **interactive Jupyter Notebooks** and **Python functions** that guide users through the entire hydrological + soil erosion modelling process. These resources are organized into three stages: **Start, Test and Explore**
 
-Important: we have included links to run iMPACT Notebooks on the cloud by using Binder (https://mybinder.org/), so that they are accessible by a web browser **without requiring any local installation**. Just click [here](https://mybinder.org/v2/gh/iRONStoolbox/iRONStoolbox/HEAD?urlpath=%2Fnotebooks%2FiRONS/Notebooks)
+Important: we have included links to run iMPACT Notebooks on the cloud by using [Binder](https://mybinder.org/), so that they are accessible by a web browser **without requiring any local installation**.
 
 
 ### **1. iMPACT-Start**
