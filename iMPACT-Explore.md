@@ -3,7 +3,7 @@ title: iMPACT-Explore
 nav: true
 ---
 
-<img src="iMPACT_logo.png" alt="iMPACT logo" style="width:30%;" >
+<img src="iMPACT-Explore_logo.png" alt="iMPACT-Explore logo" style="width:30%;" >
 
 The **iMPACT Start** is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks:
 
