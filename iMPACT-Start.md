@@ -7,7 +7,7 @@ nav: true
 
 The **iMPACT-Start** is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks:
 
-This is the list all the Notebooks that are currently available including their description and links to run them online:
+This is the list of the iMPACT-start Notebooks including their description and links to run them online. *This website is under development and we will be gradually adding new Notebooks.*
 
 **a. Preprocessing of input data:** Before we start working with the data, we need to make sure it's all in good shape. This means filling in any missing bits of information in our climate records, figuring out what the land looks like between the places we have data for (interpolation), and fixing any mistakes in our digital map that shows the height of the land (DEM). Think of it like tidying up a messy room before you can start playing in it. 
 
