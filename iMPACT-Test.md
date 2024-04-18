@@ -7,4 +7,12 @@ nav: true
 
 The **iMPACT-test** is a set of Notebooks explaining and implementing the necessary tasks to calibrate and evaluate a soil erosion model.
 
+- Calibration and validation procedures
+- Soil sampling optimization
+- Reconstruction of soil erosion history
+- Interpolation of spatial data
+- Sensitivity analysis
+- Uncertainty analysis
+- ...
+
 The iMPACT-test Notebooks will be soon avaialable.
