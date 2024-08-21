@@ -12,15 +12,7 @@ Important: we have included links to run iMPACT Notebooks on the cloud by using 
 
 ### [**1. iMPACT-Start**](https://impact-erosion.github.io/iMPACT-Start.html)
 
-The iMPACT-Start is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks. 
-
-**1. Fill sinks of the digital elevation model (DEM)
-
-**2. Calculate the flow accumulation of the surface water flow.
-
-**3. Catchment delineation to define the area of study. 
-
-**4. Soil erosion modelling at the catchment scale
+The iMPACT-Start is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks: fill sinks of the digital elevation model (DEM), calculate the flow accumulation of the surface water flow, catchment delineation to define the area of study and soil erosion modelling at the catchment scale
 
 You can find and download the iMPACT-Start Notebooks here: [iMPACT-Start](https://github.com/iMPACT-erosion/iMPACT-erosion/tree/main/iMPACT-Start/)
 
@@ -32,23 +24,23 @@ The iMPACT-test is a set of Notebooks explaining and implementing the necessary 
 
 The iMPACT-explore is a set of Notebooks explaining and implementing the necessary tasks to simulate and explore a soil erosion system under different conditions and scenarios, to evaluate the efficiency of mitigation strategies and identify the most influential factors.
 
-### Install iMPACT-erosion locally ###
+## Install iMPACT-erosion locally
 
 To install iMPACT-erosion on your computer: [Install iMPACT-erosion](./Install.md/)
 
-### Github repository ###
+## Github repository
 
 You can download the Notebooks from the iMPACT-erosion Github repository: 
 
 [iMPACT Github repository](https://github.com/iMPACT-erosion/iMPACT-erosion)
 
-### Citation ###
+## Citation
 
 
-### Acknowledgements
+## Acknowledgements
 This project is funded by the European Research Executive Agency (REA) under the HORIZON-MSCA-2021-PF-01 grant agreement 101062258
 
-### License
+## License
 Copyright (C) 2023 Andres Peñuela. iMPACT-erosion is released under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <img src="iMPACT_concept.png" alt="iMPACT concept" style="width:120%;" >
