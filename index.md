@@ -10,45 +10,35 @@ iMPACT-erosion offers a comprehensive set of **interactive Jupyter Notebooks** a
 
 Important: we have included links to run iMPACT Notebooks on the cloud by using [Binder](https://mybinder.org/), so that they are accessible by a web browser **without requiring any local installation**.
 
+### [**1. iMPACT-Start**](https://impact-erosion.github.io/iMPACT-Start.html)
 
-### **1. iMPACT-Start**
+The iMPACT-Start is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks. 
 
-The iMPACT-Start is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks: 
+**1. Fill sinks of the digital elevation model (DEM)
 
-**a. Preprocessing of input data:** Addressing data gaps in climate records, spatial data interpolation, and resolving digital elevation model (DEM) sinks.
+**2. Calculate the flow accumulation of the surface water flow.
 
-**b. Catchment delineation:** Definition of the catchment boundaries. This includes calculating flow direction, flow accumulation and flow routing.
+**3. Catchment delineation to define the area of study. 
 
-**c. Effective rainfall estimation:** Assessing rainfall interception by canopy cover to determine effective rainfall.
+**4. Soil erosion modelling at the catchment scale
 
-**d. Soil detachment by rainfall:** Modeling the detachment of soil particles due to rainfall impact.
+You can find and download the iMPACT-Start Notebooks here: [iMPACT-Start](https://github.com/iMPACT-erosion/iMPACT-erosion/tree/main/iMPACT-Start/)
 
-**e. Soil moisture and surface runoff simulation:** Predicting soil moisture dynamics and simulating surface runoff.
+### [**2. iMPACT-Test**](https://impact-erosion.github.io/iMPACT-Test.html)
 
-**f. Soil transport and sedimentation by surface runoff:** Modeling the transport and deposition of soil particles carried by surface runoff.
+The iMPACT-test is a set of Notebooks explaining and implementing the necessary tasks to calibrate and evaluate a soil erosion model.
 
-You can find these Notebooks at the iMPACT Github repository: [iMPACT Learn](https://github.com/iMPACT-erosion/iMPACT-erosion/tree/master/1-Start/)
+### [**3. iMPACT-Explore**](https://impact-erosion.github.io/iMPACT-Explore.html)
 
-### **2. iMPACT-Test**
-
-The package includes a set of interactive Jupyter Notebooks that demonstrate key functionalities through practical examples, and that can be run in the Jupyter environment either locally or remotely via a web browser.
-The notebooks included in iMPACT-erosion are divided in two sections:
-
-**A.	[Knowledge Transfer (KT) Notebooks](./KT_Notebooks.md/):** A set of simple examples to demonstrate the value of simulation tools for soil erosion management – i.e. why one should use these tools in the first place. 
-
-**B.	[Implementation Notebooks](./Implementation_Notebooks.md/):** A set of workflow examples showing how to apply the iMPACT-erosion tools to more complex problems such as: 
-
-You can download the Notebooks from the iMPACT-erosion Github repository: [iMPACT Notebooks](https://github.com/iMPACT-erosion/iMPACT-erosion/tree/master/Notebooks/)
-
-The iMPACT Notebooks can be run on the cloud by using Binder (https://mybinder.org/), so that they are accessible by a web browser without requiring the installation of Python. Just click [here](https://mybinder.org/v2/gh/iRONStoolbox/iRONStoolbox/HEAD?urlpath=%2Fnotebooks%2FiRONS/Notebooks)
-
-### **3. iMPACT-Explore**
+The iMPACT-explore is a set of Notebooks explaining and implementing the necessary tasks to simulate and explore a soil erosion system under different conditions and scenarios, to evaluate the efficiency of mitigation strategies and identify the most influential factors.
 
 ### Install iMPACT-erosion locally ###
 
 To install iMPACT-erosion on your computer: [Install iMPACT-erosion](./Install.md/)
 
 ### Github repository ###
+
+You can download the Notebooks from the iMPACT-erosion Github repository: 
 
 [iMPACT Github repository](https://github.com/iMPACT-erosion/iMPACT-erosion)
 
