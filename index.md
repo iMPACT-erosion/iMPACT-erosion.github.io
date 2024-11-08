@@ -12,7 +12,7 @@ Important: we have included links to run iMPACT Notebooks on the cloud by using 
 
 ### [**1. iMPACT-Start**](https://impact-erosion.github.io/iMPACT-Start.html)
 
-The iMPACT-Start is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks: fill sinks of the digital elevation model (DEM), calculate the flow accumulation of the surface water flow, catchment delineation to define the area of study and soil erosion modelling at the catchment scale
+The iMPACT-Start is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks: fill climate data gaps, fill sinks of the digital elevation model (DEM), calculate the flow accumulation of the surface water flow, catchment delineation to define the area of study and soil erosion modelling at the catchment scale
 
 You can find and download the iMPACT-Start Notebooks here: [iMPACT-Start](https://github.com/iMPACT-erosion/iMPACT-erosion/tree/main/iMPACT-Start/)
 

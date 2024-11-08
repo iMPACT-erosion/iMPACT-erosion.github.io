@@ -9,21 +9,25 @@ The **iMPACT-Start** is a set of Notebooks explaining and implementing the start
 
 This is the list of the iMPACT-start Notebooks and links to run them online. *This website is under development and we will be gradually adding new Notebooks.*
 
-**1. Fill sinks of the digital elevation model (DEM):** Filling sinks ensures a continuous representation of surface water flow, which is essential for hydrological modeling.
+**1. Fill climate data gaps using probability distributions:** When there are gaps in climate data—due to missing records for certain days, months, or locations—we can use probability distributions to estimate the missing information.
 
-[**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/1.Fill_sinks.ipynb)
+[**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/1.Fill_climate_data_gaps.ipynb)
 
-**2. Flow accumulation of the surface water flow:** Flow accumulation is a critical step in hydrological modeling and analysis. It indicates how water flows across the terrain, accumulating from higher elevations down to lower elevations. This Notebook includes:
+**2. Fill sinks of the digital elevation model (DEM):** Filling sinks ensures a continuous representation of surface water flow, which is essential for hydrological modeling.
+
+[**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/2.Fill_sinks.ipynb)
+
+**3. Flow accumulation of the surface water flow:** Flow accumulation is a critical step in hydrological modeling and analysis. It indicates how water flows across the terrain, accumulating from higher elevations down to lower elevations. This Notebook includes:
 	- Determination of slope gradients and flow directions
 	- D8 and Dinf flow accumulation methods
 
-[**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/2.Flow_accumulation.ipynb)
+[**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/3.Flow_accumulation.ipynb)
 
-**3. Catchment delineation:** Imagine pouring water onto a piece of land. Where does the water go? Catchment delineation is like drawing lines around the areas where the water collects and flows into streams or rivers. To do this, we look at how the land slopes and where the water would naturally flow downhill. We then calculate which areas are part of the same "catchment" or drainage area by figuring out which areas drain into the same stream or river. This Notebook includes:
+**4. Catchment delineation:** Imagine pouring water onto a piece of land. Where does the water go? Catchment delineation is like drawing lines around the areas where the water collects and flows into streams or rivers. To do this, we look at how the land slopes and where the water would naturally flow downhill. We then calculate which areas are part of the same "catchment" or drainage area by figuring out which areas drain into the same stream or river. This Notebook includes:
 	- Definition of the catchment outlet and boundaries. 
 	- Determination of flow direction and flow accumulation maps and flow routing of the delineated catchment.
 	
-[**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/3.Catchment_delineation.ipynb)
+[**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/4.Catchment_delineation.ipynb)
 
 **4. Soil erosion modelling. This includes:
 
