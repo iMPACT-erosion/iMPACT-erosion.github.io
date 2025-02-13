@@ -2,7 +2,7 @@
 nav: false
 ---
 
-[<img src="iMPACT_logo.png" alt="iMPACT logo" style="width:60%;" >](./index.md/)
+[<img src="iMPACT_logo_2.png" alt="iMPACT logo" style="width:60%;" >](./index.md/)
 
 iMPACT-erosion is a project that aims to **democratise** soil erosion modelling by fostering a more **educational, playful and exploratory** experience. To achieve this goal, the project adopts a **learn-by-doing** approach, allowing users of varying modeling expertise – **from novices to experts** – to get familiar with soil erosion modeling concepts and procedures simply by interacting with modelling tools.
 
