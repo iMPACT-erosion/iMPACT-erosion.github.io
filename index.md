@@ -18,7 +18,7 @@ You can find and download the iMPACT-Start Notebooks here: [iMPACT-Start](https:
 
 ### [**2. iMPACT-Test**](https://impact-erosion.github.io/iMPACT-Test.html)
 
-The iMPACT-test is a set of Notebooks explaining and implementing the necessary tasks to calibrate and evaluate a soil erosion model.
+The iMPACT-test is a set of Notebooks explaining and implementing the necessary tasks to calibrate and evaluate a soil erosion model: optimal soil sampling, spatial interpolation of sampled data, automatic and manual model calibration, sensitivity and uncertainty analysis.
 
 ### [**3. iMPACT-Explore**](https://impact-erosion.github.io/iMPACT-Explore.html)
 
