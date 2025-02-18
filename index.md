@@ -12,7 +12,7 @@ Important: we have included links to run iMPACT Notebooks on the cloud by using 
 
 ### [**1. iMPACT-Start**](https://impact-erosion.github.io/iMPACT-Start.html)
 
-<img src="images/Fill_rain_data.gif" alt="Fill rain data" style="width:100%;" >
+<img src="images/Fill_rain_data.gif" alt="Fill rain data" style="width:80%;" >
 
 The iMPACT-Start is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks: fill climate data gaps, fill sinks of the digital elevation model (DEM), calculate the flow accumulation of the surface water flow, catchment delineation to define the area of study and soil erosion modelling at the catchment scale
 
@@ -22,7 +22,7 @@ You can download them from the iMPACT-erosion Github repository: [iMPACT-Start G
 
 ### [**2. iMPACT-Test**](https://impact-erosion.github.io/iMPACT-Test.html)
 
-<img src="images/spatial_interpolation.gif" alt="spatial interpolation" style="width:100%;" >
+<img src="images/spatial_interpolation.gif" alt="spatial interpolation" style="width:80%;" >
 
 The iMPACT-test is a set of Notebooks explaining and implementing the necessary tasks to calibrate and evaluate a soil erosion model: optimal soil sampling, spatial interpolation of sampled data, automatic and manual model calibration, sensitivity and uncertainty analysis.
 
