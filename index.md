@@ -12,7 +12,7 @@ Important: we have included links to run iMPACT Notebooks on the cloud by using 
 
 ### [**1. iMPACT-Start**](https://impact-erosion.github.io/iMPACT-Start.html)
 
-<img src="images/Fill_rain_data.gif" alt="Fill rain data" style="width:80%;" align = "center">
+<img src="images/Fill_rain_data.gif" style="width:80%" align = "center">
 <figcaption align = "center"> Figure 1. Filling of rainfall data gaps </figcaption>
 
 
@@ -24,7 +24,7 @@ You can download them from the iMPACT-erosion Github repository: [iMPACT-Start G
 
 ### [**2. iMPACT-Test**](https://impact-erosion.github.io/iMPACT-Test.html)
 
-<img src="images/spatial_interpolation.gif" alt="spatial interpolation" style="width:70%;" align = "center">
+<img src="images/spatial_interpolation.gif" style="width:70%" align = "center">
 <figcaption align = "center"> Figure 2. Spatial interpolation of discrete point measurements of soil loss rates </figcaption>
 
 
