@@ -10,4 +10,4 @@ Alternatively, email Andres Peñuela (<apenuela@uco.es>).
 
 &nbsp;
 
-[<img src="iMPACT_logo.png" alt="iMPACT logo" style="width:60%;" >](./index.md/)
+[<img src="images/iMPACT_logo.png" alt="iMPACT logo" style="width:60%;" >](./index.md/)

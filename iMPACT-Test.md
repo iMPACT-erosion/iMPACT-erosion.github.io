@@ -3,7 +3,7 @@ title: iMPACT-Test
 nav: true
 ---
 
-<img src="iMPACT-Test_logo.png" alt="iMPACT-Test logo" style="width:60%;" >
+<img src="images/iMPACT-Test_logo.png" alt="iMPACT-Test logo" style="width:60%;" >
 
 The **iMPACT-test** is a set of Notebooks explaining and implementing the necessary tasks to calibrate and evaluate a soil erosion model.
 

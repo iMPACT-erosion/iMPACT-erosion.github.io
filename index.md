@@ -2,7 +2,7 @@
 nav: false
 ---
 
-[<img src="iMPACT_logo_2.png" alt="iMPACT logo" style="width:100%;" >](./index.md/)
+[<img src="images/iMPACT_logo_2.png" alt="iMPACT logo" style="width:100%;" >](./index.md/)
 
 iMPACT-erosion is a project that aims to **democratise** soil erosion modelling by fostering a more **educational, playful and exploratory** experience. To achieve this goal, the project adopts a **learn-by-doing** approach, allowing users of varying modeling expertise – **from novices to experts** – to get familiar with soil erosion modeling concepts and procedures simply by interacting with modelling tools.
 
@@ -12,7 +12,7 @@ Important: we have included links to run iMPACT Notebooks on the cloud by using 
 
 ### [**1. iMPACT-Start**](https://impact-erosion.github.io/iMPACT-Start.html)
 
-<img src="Fill_rain_data.gif" alt="Fill rain data" style="width:100%;" >
+<img src="images/Fill_rain_data.gif" alt="Fill rain data" style="width:100%;" >
 
 The iMPACT-Start is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks: fill climate data gaps, fill sinks of the digital elevation model (DEM), calculate the flow accumulation of the surface water flow, catchment delineation to define the area of study and soil erosion modelling at the catchment scale
 
@@ -21,6 +21,8 @@ You can run them online here: [iMPACT-Start](https://impact-erosion.github.io/iM
 You can download them from the iMPACT-erosion Github repository: [iMPACT-Start Github](https://github.com/iMPACT-erosion/iMPACT-erosion/tree/main/iMPACT-Start/)
 
 ### [**2. iMPACT-Test**](https://impact-erosion.github.io/iMPACT-Test.html)
+
+<img src="images/spatial_interpolation.gif" alt="spatial interpolation" style="width:100%;" >
 
 The iMPACT-test is a set of Notebooks explaining and implementing the necessary tasks to calibrate and evaluate a soil erosion model: optimal soil sampling, spatial interpolation of sampled data, automatic and manual model calibration, sensitivity and uncertainty analysis.
 
@@ -55,5 +57,5 @@ Copyright (C) 2023 Andres Peñuela. iMPACT-erosion is released under the [![Lice
 
 &nbsp;
 <div class="row">
-  <img src="UCO_logo.png" alt="UCO logo" style="width:20%;" hspace="20"> <img src="Marie_Curie_logo.png" alt="Marie Curie logo" style="width:25%;" hspace="00">
+  <img src="images/UCO_logo.png" alt="UCO logo" style="width:20%;" hspace="20"> <img src="images/Marie_Curie_logo.png" alt="Marie Curie logo" style="width:25%;" hspace="00">
 <div >
