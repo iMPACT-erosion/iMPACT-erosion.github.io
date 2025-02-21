@@ -9,7 +9,9 @@ The **iMPACT-Test** is a set of Notebooks explaining and implementing the necess
 
 This is the list of the iMPACT-Test Notebooks, along with links to run them online. *This website is under development and we will be gradually adding new Notebooks.*
 
-**1. Soil sampling optimization:** This notebook focuses on selecting the most informative locations for soil sampling points to maximize the information gained for model calibration and validation. Different optimization methods, such as gridded, random and conditioned Latin Hypercube sampling, are explored and compared.
+**1. Soil sampling optimization:** This notebook focuses on selecting the most informative locations for soil sampling points to maximize the information gained for model calibration and validation.
+
+[**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Test/1.Optimized_soil_sampling)
 
 **2. Interpolation of spatial data:** This notebook demonstrates various spatial interpolation techniques to create continuous maps of soil properties and soil loss rates from discrete point measurements. It compares different interpolation methods (e.g., nearest neighbor, linear, cubic) and discusses their suitability for different types of data and spatial patterns.
 
