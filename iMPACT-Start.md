@@ -7,7 +7,7 @@ nav: true
 
 The **iMPACT-Start** is a set of Notebooks explaining and implementing the starting soil erosion modelling tasks:
 
-This is the list of the iMPACT-start Notebooks and links to run them online. *This website is under development and we will be gradually adding new Notebooks.*
+This is the list of the iMPACT-start Notebooks and links to run them online.
 
 ---
 
