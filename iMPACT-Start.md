@@ -49,9 +49,9 @@ This is the list of the iMPACT-start Notebooks and links to run them online. *Th
 
 **6. Soil erodibility (K-factor):**  Determines how easily soil washes away based on:
 
-	- Texture (% sand/silt/clay)
-	- Organic matter
-	- Permeability
+- Texture (% sand/silt/clay)
+- Organic matter
+- Permeability
 	
 Uses USDA’s Nomograph method.
 
@@ -67,9 +67,8 @@ Uses USDA’s Nomograph method.
 
 **8. Land cover management factors (C & P factors):** Quantifies how land use affects erosion:
 
-	- ***C-factor***: Vegetation cover (forests protect soil better than bare fields)
-
-	- ***P-factor***: Farming practices (contour plowing reduces erosion vs. up/downhill rows)
+- ***C-factor***: Vegetation cover (forests protect soil better than bare fields)
+- ***P-factor***: Farming practices (contour plowing reduces erosion vs. up/downhill rows)
 
 [**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/8.Land_Cover_and_Practices_factors.ipynb)
 
