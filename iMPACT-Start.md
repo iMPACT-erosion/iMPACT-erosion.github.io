@@ -24,12 +24,10 @@ This is the list of the iMPACT-start Notebooks and links to run them online. *Th
 ---
 
 **3. Flow accumulation of the surface water flow:** Flow accumulation is a critical step in hydrological modeling and analysis. It indicates how water flows across the terrain, accumulating from higher elevations down to lower elevations. This Notebook includes:
-	- Determination of slope gradients and flow directions
-	- Shows how water moves downhill across a landscape using two methods:
-
-		D8: Simple "water flows to one neighboring cell"
-
-		Dinf: Realistic "water splits between multiple cells"
+- Determination of slope gradients and flow directions
+- Shows how water moves downhill across a landscape using two methods:
+	- D8: Simple "water flows to one neighboring cell"
+	- Dinf: Realistic "water splits between multiple cells"
 
 [**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/3.Flow_accumulation.ipynb)
 
