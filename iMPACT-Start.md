@@ -16,7 +16,8 @@ This is the list of the iMPACT-start Notebooks and links to run them online.
 [**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/1.Fill_climate_data_gaps.ipynb)
 
 ---
-**2. Fill sinks of the digital elevation model (DEM):** Fixes "holes" in digital elevation maps that disrupt water flow simulations. These holes (sinks) might be real (like volcanic craters) or errors in the map.<left><img src="images/neighbour_cells.png" style="width: 200px; float:right"><h>
+####2. Fill sinks of the digital elevation model (DEM): 
+Fixes "holes" in digital elevation maps that disrupt water flow simulations. These holes (sinks) might be real (like volcanic craters) or errors in the map.<left><img src="images/neighbour_cells.png" style="width: 200px; float:right"><h>
 
 [**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/2.Fill_sinks.ipynb)
 
