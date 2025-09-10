@@ -16,13 +16,13 @@ This is the list of the iMPACT-start Notebooks and links to run them online.
 [**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/1.Fill_climate_data_gaps.ipynb)
 
 ---
-
+<img src="images/sink.png" style="width: 200px; float:right"><h>
 **2. Fill sinks of the digital elevation model (DEM):** Fixes "holes" in digital elevation maps that disrupt water flow simulations. These holes (sinks) might be real (like volcanic craters) or errors in the map.
 
 [**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/2.Fill_sinks.ipynb)
 
 ---
-
+<left><img src="images/neighbour_cells.png" style="width: 300px; float:right"><h>
 **3. Flow accumulation of the surface water flow:** Flow accumulation is a critical step in hydrological modeling and analysis. It indicates how water flows across the terrain, accumulating from higher elevations down to lower elevations. This Notebook includes:
 - Determination of slope gradients and flow directions
 - Shows how water moves downhill across a landscape using two methods:
@@ -71,6 +71,8 @@ Uses USDA’s Nomograph method.
 - ***P-factor***: Farming practices (contour plowing reduces erosion vs. up/downhill rows)
 
 [**Click here to run the Notebook online**](https://mybinder.org/v2/gh/iMPACT-erosion/iMPACT-erosion/HEAD?urlpath=notebooks/iMPACT-Start/8.Land_Cover_and_Practices_factors.ipynb)
+
+---
 
 *This website is under development and we will be gradually adding new Notebooks.*
 
