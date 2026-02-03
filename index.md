@@ -61,5 +61,5 @@ Copyright (C) 2023 Andres Peñuela. iMPACT-erosion is released under the [![Lice
 
 &nbsp;
 <div class="row">
-  <img src="images/UCO_logo.png" alt="UCO logo" style="width:20%;" hspace="20"> <img src="images/Marie_Curie_logo.png" alt="Marie Curie logo" style="width:25%;" hspace="00">
+  <img src="images/UCO_logo.png" alt="UCO logo" style="width:20%;" hspace="20"> <img src="images/Marie_Curie_logo.png" alt="Marie Curie logo" style="width:25%;" hspace="00" <img src="images/EU_logo.png" alt="EU logo" style="width:25%;" hspace="00">
 <div >
